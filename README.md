@@ -288,9 +288,9 @@ The ETL turns folder hyphens into spaces and lowercases everything, so the datab
 |---|---|---|---|
 | Case Studies | 1. Transaction dynamics | Where is usage growing, stagnating or declining? | Year-over-year growth, category mix, growth heatmap |
 | Case Studies | 4. Market expansion | Which states to activate or expand into? | Transactions per user, average ticket size, four segments |
-| Case Study 5 | 5. User engagement and growth | How engaged are users, and where to grow? | Transactions per registered user, growth versus engagement quadrant |
-| Case Studies 7 8 | 7. Transactions across states and districts | Which states and districts lead? | Count and value shares, top districts |
-| Case Studies 7 8 | 8. User registrations | Where are users and new sign-ups concentrated? | Registered users, net new users, top districts |
+| Case Studies | 5. User engagement and growth | How engaged are users, and where to grow? | Transactions per registered user, growth versus engagement quadrant |
+| Case Studies | 7. Transactions across states and districts | Which states and districts lead? | Count and value shares, top districts |
+| Case Studies | 8. User registrations | Where are users and new sign-ups concentrated? | Registered users, net new users, top districts |
 
 Each page ends with a **Findings** list that is written from the live data for the year and quarter you select.
 
